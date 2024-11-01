@@ -30,7 +30,7 @@
 <!--</idea-plugin>-->
 
 <idea-plugin>
-<id>com.yourname.todo.highlighter</id>
+<id>org.example.demo.highlighter</id>
 <name>TODO Highlighter</name>
 <vendor>Your Name</vendor>
 
